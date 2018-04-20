@@ -6,3 +6,6 @@ Directory traversal vulnerability in AWStats before 7.0 allows remote attackers 
 PAYLOAD: awstats.pl?framename=mainright&update=123123123123
 
 RESULT:
+
+![alt text](https://github.com/theyiyibest/AWStatsFullPathDisclosure/blob/master/FPD.JPG)
+
