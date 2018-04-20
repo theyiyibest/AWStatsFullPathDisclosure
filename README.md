@@ -7,5 +7,5 @@ PAYLOAD: awstats.pl?framename=mainright&update=123123123123
 
 RESULT:
 
-![alt text](https://github.com/theyiyibest/AWStatsFullPathDisclosure/blob/master/FPD.JPG)
+![alt text](https://github.com/theyiyibest/AWStatsFullPathDisclosure/blob/master/full-path.jpg)
 
