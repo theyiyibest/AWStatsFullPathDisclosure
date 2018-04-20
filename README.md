@@ -10,4 +10,4 @@ RESULT:
 ![alt text](https://github.com/theyiyibest/AWStatsFullPathDisclosure/blob/master/full-path.jpg)
 
 
-Found by, JuanRi Villén, Ruben Gutierrez and Yeray Fernández
+Found by: JuanRi Villén, Ruben Gutierrez and Yeray Fernández
